@@ -1,0 +1,20 @@
+body{background-image: url(1mg4.jpg);
+background-position: center;
+background-size: cover;
+}
+div{text-align: center;
+    margin-top:50px;
+}
+h1{font-size: 80px;
+color: aqua;
+}
+input{font-size: 30px;
+    text-align: center;
+border-radius: 15px;}
+button{font-size: 30px;
+border-radius: 10px;
+color: blue;}
+h2{
+font-size: 70px;
+color: fuchsia;
+}
